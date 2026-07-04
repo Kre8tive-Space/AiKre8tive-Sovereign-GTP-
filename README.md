@@ -1,5 +1,5 @@
-# AiKre8tive ProofStack 🧬
-This LEGYC Dash was deployed by #MrGGTP as the official sovereign origin stack for AiKre8tive.
+# ARC.AI ProofStack 🧬
+This LEGYC Dash was deployed by #MrGGTP as the official sovereign origin stack for ARC.AI.
 
 ## 🧾 Files
 - CLAIM_OF_ORIGIN.md
@@ -10,7 +10,7 @@ This LEGYC Dash was deployed by #MrGGTP as the official sovereign origin stack f
 
 ## 🔁 PDF Workflow
 This repository auto-generates a PDF of the CLAIM_OF_ORIGIN via GitHub Actions:
-👉 [See Actions](https://github.com/TheKre8tive/AiKre8tive-ProofStack/actions)
+👉 [See Actions](https://github.com/TheKre8tive/ARC.AI-ProofStack/actions)
 
 Signed: **#MrGGTP**
 
