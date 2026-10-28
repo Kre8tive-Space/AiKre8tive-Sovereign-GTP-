@@ -19,3 +19,5 @@ Verify using:
 ```bash
 sha256sum SCAF_Codex_20250803_195122.zip
 ```
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README_SCAF.md
